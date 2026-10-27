@@ -1,0 +1,60 @@
+{
+  "url": "https://example.com/apply/contoso-1",
+  "fields": [
+    {
+      "label": "First name",
+      "value": "Jamie",
+      "type": "text"
+    },
+    {
+      "label": "Last name",
+      "value": "Example",
+      "type": "text"
+    },
+    {
+      "label": "Legal first name",
+      "value": "Samantha",
+      "type": "text"
+    },
+    {
+      "label": "Email",
+      "value": "sam@example.com",
+      "type": "email"
+    },
+    {
+      "label": "Phone",
+      "value": "(312) 555-0142",
+      "type": "tel"
+    },
+    {
+      "label": "Current location",
+      "value": "Chicago, Illinois",
+      "type": "text"
+    },
+    {
+      "label": "Are you legally authorized to work in the United States?",
+      "value": "Yes",
+      "type": "select"
+    },
+    {
+      "label": "Will you now or in the future require visa sponsorship?",
+      "value": "No",
+      "type": "select"
+    },
+    {
+      "label": "Resume/CV",
+      "value": "Sam_Example_Resume.pdf",
+      "type": "file"
+    }
+  ],
+  "page_text": "Apply for Senior Product Designer, Payments\nResume/CV Sam_Example_Resume.pdf\nAccepted file types: pdf, docx\nResume on file: Old_Resume_2019.pdf",
+  "checked_options": [
+    "No, I will not require sponsorship"
+  ],
+  "password_fields": [],
+  "uploaded": true,
+  "flagged": [],
+  "filled": 9,
+  "visible_captcha": false,
+  "submit_attempts": 0
+}

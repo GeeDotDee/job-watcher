@@ -1,0 +1,32 @@
+Sam Example
+Senior Product Designer | Payments, Complex Workflows, and Prototyping
+Chicago, IL | sam@example.com | 312-555-0142 | example.com/portfolio
+
+SUMMARY
+Product designer with 7+ years across payments and health software. I turn messy, high-stakes workflows into clear screens, test them with real users, and prototype in code so engineers see exactly what to build.
+
+EXPERIENCE
+Northwind Payments | Chicago, IL
+Senior Product Designer | March 2022 - May 2026
+- Redesigned the invoice payment flow for 40,000 small businesses; usability test task success rose from 61% to 88%.
+- Designed an AI assistant that drafts dispute responses, with a human review step before anything is sent.
+- Built and maintained the design system used by 4 product teams, covering 120 components.
+- Ran 30 customer interviews to set the roadmap for the merchant dashboard.
+
+Fabrikam Health | Remote
+Product Designer | June 2019 - February 2022
+- Designed appointment scheduling for 200 clinics; no-show rate fell from 18% to 12% after launch.
+- Partnered with 2 PMs and 9 engineers to ship a patient messaging inbox.
+- Created accessibility guidelines that brought core flows to WCAG 2.1 AA.
+
+PROJECTS
+Ledgerline | January 2026 - Present
+- Side project: a budgeting app prototyped with Claude Code and tested with 12 users.
+
+SKILLS
+Design: Figma, prototyping, interaction design, design systems, accessibility
+Research: user interviews, usability testing, journey maps
+Build: HTML, CSS, React prototypes, Claude Code
+
+EDUCATION
+State University | B.A. Psychology | 2019

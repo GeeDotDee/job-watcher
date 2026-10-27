@@ -1,0 +1,11 @@
+{
+  "id": "demo:trey-1",
+  "source": "Demo postings",
+  "title": "Senior Design Engineer",
+  "company": "Trey Research",
+  "location": "Remote, United States",
+  "remote": true,
+  "url": "https://example.com/jobs/trey-1",
+  "salary_text": "$170,000 - $210,000",
+  "description": "Trey Research is hiring a Senior Design Engineer to build our component library. Requirements: 6+ years of professional software engineering experience, a degree in computer science or software engineering, deep TypeScript and React knowledge, and comfort writing code that ships to production every day. You'll own performance budgets, testing infrastructure, and build tooling for the design system, pairing with designers on prototypes and with platform engineers on releases."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "demo:alpine-1",
+  "source": "Demo postings",
+  "title": "Lead Product Designer",
+  "company": "Alpine Ski House",
+  "location": "Chicago, IL",
+  "url": "https://example.com/jobs/alpine-1",
+  "posted_at": "2020-01-06T15:00:00+00:00",
+  "salary_text": "$165,000 - $185,000",
+  "description": "An old posting."
+}

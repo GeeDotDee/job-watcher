@@ -1,0 +1,11 @@
+{
+  "id": "demo:contoso-1",
+  "source": "Demo postings",
+  "title": "Senior Product Designer, Payments",
+  "company": "Contoso Ledger",
+  "location": "Remote, United States",
+  "remote": true,
+  "url": "https://example.com/jobs/contoso-1",
+  "salary_text": "$160,000 - $190,000",
+  "description": "Contoso Ledger builds invoicing and payment tools for small businesses. We're hiring a Senior Product Designer to own the invoice payment experience end to end. You will run user research and usability testing, prototype in Figma and in code, and work closely with product managers and engineers. You'll extend our design system and make sure every flow meets WCAG accessibility standards. Requirements: 5+ years of product design experience, a portfolio showing complex workflows, experience with payments or fintech, strong interaction design and information architecture skills, and comfort presenting to stakeholders. Nice to have: experience designing AI features with human review, dashboards and analytics, and A/B testing."
+}

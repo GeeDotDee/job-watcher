@@ -1,0 +1,10 @@
+{
+  "id": "demo:adatum-1",
+  "source": "Demo postings",
+  "title": "Product Designer",
+  "company": "Adatum Clinics",
+  "location": "Chicago, IL",
+  "url": "https://example.com/jobs/adatum-1",
+  "salary_text": "$95,000 - $115,000",
+  "description": "Design patient scheduling tools for a network of clinics."
+}

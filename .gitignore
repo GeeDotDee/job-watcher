@@ -1,0 +1,12 @@
+# Your own facts and data never get committed.
+.env
+.env.*
+!.env.example
+/candidate.json
+/data/
+*.pdf
+*.docx
+
+__pycache__/
+.venv/
+.pytest_cache/

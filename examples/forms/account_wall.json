@@ -1,0 +1,16 @@
+{
+  "url": "https://example.com/apply/contoso-1",
+  "fields": [],
+  "page_text": "Create an account to apply. Already have an account? Sign in",
+  "checked_options": [
+    "No, I will not require sponsorship"
+  ],
+  "password_fields": [
+    "Create a password"
+  ],
+  "uploaded": false,
+  "flagged": [],
+  "filled": 0,
+  "visible_captcha": false,
+  "submit_attempts": 0
+}

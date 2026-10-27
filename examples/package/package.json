@@ -1,0 +1,45 @@
+{
+  "_note": "A package as tailor.build_package saves it, for the gate demo. Made-up candidate and company.",
+  "job": {
+    "id": "demo:contoso-1",
+    "source": "Demo postings",
+    "title": "Senior Product Designer, Payments",
+    "company": "Contoso Ledger",
+    "location": "Remote, United States",
+    "remote": true,
+    "url": "https://example.com/jobs/contoso-1",
+    "salary_text": "$160,000 - $190,000",
+    "description": "Contoso Ledger builds invoicing and payment tools for small businesses. We're hiring a Senior Product Designer to own the invoice payment experience end to end. You will run user research and usability testing, prototype in Figma and in code, and work closely with product managers and engineers. You'll extend our design system and make sure every flow meets WCAG accessibility standards. Requirements: 5+ years of product design experience, a portfolio showing complex workflows, experience with payments or fintech, strong interaction design and information architecture skills, and comfort presenting to stakeholders. Nice to have: experience designing AI features with human review, dashboards and analytics, and A/B testing."
+  },
+  "match": {
+    "match_pct": 88,
+    "found": [
+      "payments",
+      "figma",
+      "usability testing",
+      "design system",
+      "wcag"
+    ],
+    "missing": [
+      "a/b testing"
+    ],
+    "cannot_add": [
+      "a/b testing"
+    ],
+    "target": 90
+  },
+  "gaps": [
+    "No A/B testing experience on the resume"
+  ],
+  "fit_summary": "Seven years on payment and scheduling flows, including an invoice redesign tested with users. The main risk is no A/B testing.",
+  "answers": {
+    "why_company": "Contoso Ledger works on the part of small business finance I know best: getting invoices paid. I spent four years on that flow at Northwind Payments.",
+    "relevant_project": "At Northwind Payments I redesigned the invoice payment flow for 40,000 small businesses. Usability test task success rose from 61% to 88%."
+  },
+  "header_title": "Senior Product Designer",
+  "base": "product",
+  "consistency": {
+    "fixed": [],
+    "issues": []
+  }
+}

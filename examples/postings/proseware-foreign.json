@@ -1,0 +1,10 @@
+{
+  "id": "demo:proseware-1",
+  "source": "Demo postings",
+  "title": "Senior Product Designer",
+  "company": "Proseware",
+  "location": "Remote, Germany",
+  "remote": true,
+  "url": "https://example.com/jobs/proseware-1",
+  "description": "Design B2B workflow software for European logistics teams."
+}

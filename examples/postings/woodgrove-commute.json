@@ -1,0 +1,11 @@
+{
+  "id": "demo:woodgrove-1",
+  "source": "Demo postings",
+  "title": "Senior UX Designer, AI Assistant",
+  "company": "Woodgrove AI",
+  "location": "Naperville, IL",
+  "remote": false,
+  "url": "https://example.com/jobs/woodgrove-1",
+  "salary_text": "$120,000 - $140,000",
+  "description": "On-site role designing an AI assistant for insurance claims."
+}

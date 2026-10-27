@@ -1,0 +1,5 @@
+# True skills that aren't on the master resume. Tailoring may use these; it may not use anything else.
+# One per line. Lines starting with # are ignored.
+Maze unmoderated testing
+FigJam workshops with stakeholders
+Writing release criteria from usability findings

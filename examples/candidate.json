@@ -1,0 +1,71 @@
+{
+  "_note": "A made-up candidate. Copy this file to candidate.json at the repo root and replace every value with your own.",
+
+  "name": {
+    "first": "Sam",
+    "last": "Example",
+    "full": "Sam Example",
+    "legal_first": "Samantha",
+    "legal_full": "Samantha Example"
+  },
+  "email": "sam@example.com",
+  "phone": "312-555-0142",
+  "location": "Chicago, IL",
+  "location_words": ["chicago"],
+  "pronouns": "They/them",
+  "portfolio": "https://example.com/portfolio",
+
+  "years_experience": 7,
+  "currently_employed": false,
+  "titles_held": ["senior product designer", "product designer", "ux designer"],
+  "employers": {
+    "Northwind Payments": {"start": "March 2022", "end": "May 2026", "title": "Senior Product Designer"},
+    "Fabrikam Health": {"start": "June 2019", "end": "February 2022", "title": "Product Designer"}
+  },
+  "projects": {"Ledgerline": "January 2026 - Present"},
+  "former_jobs_not_on_resume": ["Tailspin Coffee"],
+
+  "standing_answers": {
+    "authorized_to_work": true,
+    "needs_sponsorship": false
+  },
+
+  "search": {
+    "home_metro": "chicago|evanston|oak park|skokie|\\bil\\b|illinois",
+    "far_commute": "naperville|schaumburg|aurora|joliet",
+    "far_commute_min_pay": 150000,
+    "absolute_min_pay": 120000,
+    "below_senior_min_pay": 125000,
+    "preferred_pay": 150000,
+    "max_applicants": 100,
+    "max_age_hours": 168,
+    "include_pm_roles": true,
+    "blocked_companies": ["example staffing agency"]
+  },
+
+  "bases": {
+    "product": {
+      "headline": "Senior Product Designer",
+      "tagline": "Payments, Complex Workflows, and Prototyping"
+    },
+    "ai": {
+      "headline": "Senior Product Designer",
+      "tagline": "AI Features, Evaluation, and Prototyping",
+      "summary": "Product designer with 7+ years across payments and health software. I design AI features with human review and clear failure states, prototype in code, and test AI output before it ships.",
+      "lead_bullet": "AI",
+      "move_before": {"PROJECTS": "EXPERIENCE"}
+    },
+    "pm": {
+      "headline": "Product Manager",
+      "tagline": "Payments and Workflow Products",
+      "summary": "Product builder with 7+ years across payments and health software. I set priorities from research, define success metrics before launch, and work closely with engineering on tradeoffs.",
+      "full_rewrite": true
+    }
+  },
+
+  "files": {
+    "master_resume": "examples/master_resume.txt",
+    "extra_skills": "examples/extra_skills.txt",
+    "voice": "examples/voice.txt"
+  }
+}

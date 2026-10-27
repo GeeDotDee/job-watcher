@@ -1,0 +1,11 @@
+{
+  "id": "demo:relecloud-1",
+  "source": "Demo postings",
+  "title": "Senior Product Manager, Payments",
+  "company": "Relecloud",
+  "location": "Remote, United States",
+  "remote": true,
+  "url": "https://example.com/jobs/relecloud-1",
+  "salary_text": "$170,000 - $200,000",
+  "description": "Relecloud is hiring a Senior Product Manager for our payments platform. You will own the roadmap for checkout and billing, define success metrics, prioritize with engineering and design, and run customer research with merchants. Requirements: experience with payments, billing or fintech products; strong prioritization and stakeholder management; comfort with analytics and A/B testing; experience shipping AI-assisted workflows is a plus. You will partner with design on usability testing and with finance on invoicing and dispute flows."
+}
